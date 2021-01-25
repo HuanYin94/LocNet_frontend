@@ -1,6 +1,6 @@
 # Front-end of LocNet
 
-![image]<img src="https://github.com/ZJUYH/LocNet_frontend/blob/master/image/range.png" width= 1000>
+<img src="https://github.com/ZJUYH/LocNet_frontend/blob/master/image/range.png" width= 800>
 
 This page contains the front-end of LocNet network, implemented by Matlab.
 
