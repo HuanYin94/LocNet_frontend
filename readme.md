@@ -1,10 +1,10 @@
 # Front-end of LocNet
 
-<img src="https://github.com/ZJUYH/LocNet_frontend/blob/master/image/range.png" width= 1000>
+![image]<img src="https://github.com/ZJUYH/LocNet_frontend/blob/master/image/range.png" width= 1000>
 
 This page contains the front-end of LocNet network, implemented by Matlab.
 
-For example, you can use the files in `kitti_dataset/range` to extract the representations, based on the absolute range information. Specifically, the `binsToImageCells.m` is the main file to obtain the image-like cells.
+For example, you can use the files in `kitti_dataset/range` to achieve the representations, based on the absolute range information. Specifically, the `binsToImageCells.m` is the main file to obtain the image-like cells.
 
 We also present the comparative methods, please refer to the `Comparisons`.
 
