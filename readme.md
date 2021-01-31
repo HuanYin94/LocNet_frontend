@@ -8,7 +8,7 @@ For example, you can use the files in `kitti_dataset/range` to achieve the repre
 
 We also present the comparative methods, please refer to the `Comparisons`.
 
-If you think this page is little useful for your work, please cite:
+If you use our implementation in your work, please cite the following paper:
 
 	@article{yin20193d,
 	  title={3D LiDAR-Based Global Localization Using Siamese Neural Network},
